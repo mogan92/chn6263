@@ -8,3 +8,4 @@ while i < 10:           # i = 0 , 0<10 , i =1 , 1<10
     else:
         print(i,"odd")  
     i = i + 1           #1,2
+    print("Thank you")
