@@ -6,4 +6,4 @@ for i in mylist:        #value = 1 , value = 2 , value = 3 , value = 4
     if i % 2 == 0:
         print(i,"is even")
     else:
-        print(i,"is odd"
+        print(i,"is odd")
